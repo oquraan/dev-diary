@@ -28,9 +28,13 @@ at Jordan University for Science & Technology,2024
 >- **Programming Languages:** [Java, C#, C++, Dart , Flutter ,HTML,CSS ,JavaScript,asp.Net ,MUMPS]
 >-**Databases:** [ Oracle, Firebase ,SQLserver,FileMan],
 >- **Development Tools:** NetBeans, Eclipse, Visual Studio, VS Code, Android Studio, StarUML
->- Software Development Life Cycle,  Requirements Gathering and Analysis
+>- Software Development Life Cycle,  Requirements Gathering and Analysis.     
+
+
+
 
 >What you learned from the Good Developer Mindset orticle?
+>
 >1. As a developer, you should keep learning because the technology field changes rapidly.
 >2. Divide the large problem into smaller tasks to make it easier to solve.
 >3. You should think like a detective when debugging issues, collecting and gathering the clues. After that, fix and solve the problem.
@@ -48,9 +52,42 @@ at Jordan University for Science & Technology,2024
 >15. Whenever you find yourself doing a repetitive, manual task, ask yourself if there‘s a way to automate it.
 >16. Realize "perfect is the enemy of good"
 
+ ## Terminal Command Cheat sheet 
+>1. **cd** : change  the directory.
+>2. **cd ..** : get path to the previous path .
+>3. **ls** : list a files.
+>![My picture](./imag/SharedScreenshot.jpg)
 
 
+>4. **ls -force** : list all filees including the hidden.
+>![Screenshot2](./imag/Screenshot2.jpg)
 
+>5. **ls -hidden** : list hidden files only.
+>![Screenshot3](./imag/Screenshot%203.jpg)
+
+
+>6. **mkdir theNameOfDir** : create an  new directory .
+>![Screenshot4](./imag/Screenshot4.jpg)
+
+
+>7. **pwd** :display the current file.   .
+>![Screenshot5](./imag/Screenshot5.jpg)
+
+>8. **rm** :display the current file.   .
+>![Screenshot6](./imag/Screenshot6.jpg)
+
+>9. **cat** :display the current file.   .
+>![Screenshot7](./imag/Screenshot7.jpg)
+
+
+>10. **cp** :display the current file.   .
+>![Screenshot8](./imag/Screenshot8.jpg)
+
+>11. **mv** :display the current file.   .
+>![Screenshot9](./imag/Screenshot9.jpg)
+
+>12. **echo "test"** :display the current file.   .
+>![Screenshot10](./imag/Screenshot10.jpg)
 
 
 
