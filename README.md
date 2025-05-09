@@ -70,24 +70,27 @@ at Jordan University for Science & Technology,2024
 >![Screenshot4](./imag/Screenshot4.jpg)
 
 
->7. **pwd** :display the current file.   .
+>7. **pwd** :display the current path.
 >![Screenshot5](./imag/Screenshot5.jpg)
 
->8. **rm** :display the current file.   .
+>8. **rm** :remove file/directories  .
 >![Screenshot6](./imag/Screenshot6.jpg)
 
->9. **cat** :display the current file.   .
+>9. **cat** :show the palinText contant   .
 >![Screenshot7](./imag/Screenshot7.jpg)
 
 
->10. **cp** :display the current file.   .
+>10. **cp** :copy afie/folder  .
 >![Screenshot8](./imag/Screenshot8.jpg)
+>![Screenshot8a](./imag/Screenshot8a.jpg)
 
->11. **mv** :display the current file.   .
->![Screenshot9](./imag/Screenshot9.jpg)
 
->12. **echo "test"** :display the current file.   .
->![Screenshot10](./imag/Screenshot10.jpg)
+>11. **mv** :move a file or rename .
+>![Screenshot9](./imag/Screenshot9.jpg )
+
+>12. **echo "value contant"> typefile** :create a new file and put the "value contant" .
+>13. **touch fileName.filetype** :  create empty file.
+>![Screenshot10](./imag/Screenshot10.jpg )
 
 
 
