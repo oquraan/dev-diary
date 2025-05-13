@@ -31,6 +31,8 @@ at Jordan University for Science & Technology,2024
 >- _Software Development Life Cycle, Requirements Gathering and Analysis_   
 
 
+
+
 >What you learned from the Good Developer Mindset orticle?
 >
 >1. As a developer, you should keep learning because the technology field changes rapidly.
