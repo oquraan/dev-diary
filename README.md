@@ -13,7 +13,7 @@ at Jordan University for Science & Technology,2024
 ## EXPERIENCE  
 >- **Intern - Tahaluf Al Emarat Technical Solutions**  Completed a three-month internship prior to starting my Software Engineering studies
 >- **Intern – OPTIMIZA** I trained at Optimiza for two months.
->- **OPTIMIZA** I Worked at EHS for two months.
+>- **EHS** I Worked at EHS for two months.
 >- **Intern - LTUC(Luminus Technical University College)** Currently undergoing internship training.
 
 ## CERTIFICATIONS
