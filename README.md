@@ -24,13 +24,11 @@ at Jordan University for Science & Technology,2024
 >- Oxford Academy -  English comprehensive diploma 
 >- edX - Entrepreneurship Adventures
 
-## TECHNICAL SKILLS   
->- **Programming Languages:** [Java, C#, C++, Dart , Flutter ,HTML,CSS ,JavaScript,asp.Net ,MUMPS]
->-**Databases:** [ Oracle, Firebase ,SQLserver,FileMan],
->- **Development Tools:** NetBeans, Eclipse, Visual Studio, VS Code, Android Studio, StarUML
->- Software Development Life Cycle,  Requirements Gathering and Analysis.     
-
-
+## TECHNICAL SKILLS  
+- _**Programming Languages:**_ [Java, C#, C++, Dart, Flutter, HTML, CSS, JavaScript, ASP.NET,MUMPS]  
+- _**Databases:**_ [Oracle, Firebase, SQL Server,FileMan]  
+- _**Development Tools:**_ NetBeans, Eclipse, Visual Studio, VS Code, Android Studio, StarUML  
+- _Software Development Life Cycle, Requirements Gathering and Analysis_
 
 
 >What you learned from the Good Developer Mindset orticle?
